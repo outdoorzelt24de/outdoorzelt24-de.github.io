@@ -1,11 +1,11 @@
 {
-    "domain": "outdoorhosen24.de",
-    "hostname": "https://www.outdoorhosen24.de",
-    "email": "mail@surrealnetworks.io",
-    "organization": "outdoorhosen24.de",
+    "domain": "outdoorzelt24.de",
+    "hostname": "https://www.outdoorzelt24.de",
+    "email": "outdoorzelt24.de@surrealnetworks.io",
+    "organization": "outdoorzelt24.de",
     "logoText": "Outdoorzelt24.de",
-    "title": "Outdoorhosen für Damen und Herren",
-    "subline": "Der Outdoorhosen Shop für Damen und Herren",
+    "title": "Zelt kaufen bei outdoorzelt24.de",
+    "subline": "Der Zelt Shop für alle Einsatzbereiche",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -16,81 +16,88 @@
     "popularProducts": [],
     "winnerProducts": [],
     "featuredCategories": [],
-    "socialMediaAccounts": [{
-        "name": "Twitter",
-        "link": "https://www.twitter.com/campingtoilette",
-        "iconClass": "fab fa-twitter",
-        "published": false
-    }],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/outdoorzelt24",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
     "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Outdoorhosen",
-        "featureText": "<p class=\"mb-4\">Finde die perfekte OutdoorHose für jede Witterung</p><p>Wir bieten eine riesige Auswahl an Outdoorhosen für Damen, Herren und Kindern in verschiedenen Stilen und Farben. Egal welches Wetter, bei uns findest du die perfekte Hose für dein nächstes Abenteuer.</p><p>Alle Outdoorhosen in unserem Shop sind qualitativ hochwertig und werden auf folgende Kriterien geprüft:</p>",
+        "mainKeyword": "Zelt",
+        "featureText": "<p class=\"mb-4\">Finde das perfekte Zelt</p><p>Wir bieten eine riesige Auswahl an Zelten. Wir haben für jedes Abenteuer das passende Zelt.</p><p>Alle Zelte in unserem Shop sind qualitativ hochwertig und werden auf folgende Kriterien geprüft:</p>",
         "index": {
-            "title": "Outdoorhosen für Damen und Herren | Shop",
-            "metaDescription": "Outdoorhosen für Damen und Herren online kaufen in unserem Shop. Top Marken und beste Preise in unserem Outdoorhosen Shop. Best-Preis-Garantie. Finde die richtige Outdoorhose.",
+            "title": "Zelt kaufen bei outdoorzelt24.de",
+            "metaDescription": "Es gibt die unterschiedlichsten Zelte. Finde hier bei uns das richtige Zelt für dein Vorhaben. Ob das meist genutzte Kuppelzelt, Tunnelzelt, Wurfzelt und viele weitere Zeltarten, wir bieten dir einiges.",
             "robots": "index, follow"
         },
         "shop": {
-            "title": "Alle Outdoorhosen und Marken im Überblick.",
-            "metaDescription": "Alle Outdoor Hosen und Marken im Überblick. Sortiert nach Kategorie. Best-Preis-Garantie. Jetzt die richtige Outdoorhose vergleichen und finden.",
+            "title": "Alle Zelte und Hersteller im Überblick.",
+            "metaDescription": "Hier findest du alle Zelte, aufgeteilt in Zeltarten und Personenanzahl. Das Zelt sollte dir eine zuverlässige Behausung bieten. Zelt kaufen und Abenteuer genießen.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Alle Marken für Outdoorhosen im Überblick",
-            "metaDescription": "Eine Auflistung aller Marken und Hersteller für Outdoorhosen im Überblick. Von Adidas bis Jack Wolfskin, hier findest du alle Hersteller.",
+            "title": "Alle Marken für Zelte im Überblick",
+            "metaDescription": "Eine Auflistung aller Marken und Hersteller für Zelte im Überblick.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT online kaufen | Outdoorhosen Shop",
+        "defaultTitle": "$PRODUKT online kaufen | Zelt Shop",
         "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
         "defaultRobots": "noindex, follow",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "MSR Elixir 2 - Kuppelzelt günstig kaufen $DOMAIN",
+                    "metaDescription": "DESC: Das MSR Elixir 2 Kuppelzelt kaufen. Schnelles Aufbauen, absolut kleines Packmaß, super leicht und dennoch optimale Größe. $DOMAIN. Testsieger in der Kategorie Kuppelzelte.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Outdoorhosen Shop",
+        "defaultTitle": "$KATEGORIE | Zelt Shop",
         "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger.",
         "defaultRobots": "noindex, follow",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow"
+        "categories": [
+            {
+                "key": "zelt",
+                "slug": "zelt",
+                "name": "zelt",
+                "seo": {
+                    "title": "Zelt kaufen",
+                    "metaDescription": "Alle Zelte im Überblick. Produkte und Testsieger. Finde das passende Zelt zu einem top Preis-Leistungs-Verhältnis.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
-        "defaultTitle": "Produkte von $HERSTELLER | Outdoorhosen Shop",
-        "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Überblick im Outdoor Shop. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
+        "defaultTitle": "Produkte von $HERSTELLER | Zelt Shop",
+        "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Überblick im Zelt Shop. Preis-Leistungs-Verhältnis. Beliebte Produkte und Testsieger.",
         "defaultRobots": "noindex, follow",
-        "brands": [{
-                "key": "palm",
-                "name": "Palm",
+        "brands": [
+            {
+                "key": "MSR",
+                "name": "MSR",
                 "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "title": "Produkte von MSR günstig kaufen",
+                    "metaDescription": "Alle Produkte von MSR im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor-Zelt-Produkte.",
                     "robots": "index, follow"
                 }
             },
             {
-                "key": "adidas",
-                "name": "Adidas",
+                "key": "Sea to Summit",
+                "name": "Sea to Summit",
                 "seo": {
-                    "title": "Produkte von Adidas günstig kaufen",
-                    "metaDescription": "Alle Produkte von Adidas im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "title": "Produkte von Sea to Summit günstig kaufen",
+                    "metaDescription": "Alle Produkte von Sea to Summit im Überblick. Produkte und Testsieger. Zusammen mit MSR bildet Sea to Summit die Spitze der Zelte.",
                     "robots": "index, follow"
                 }
             }
@@ -104,23 +111,24 @@
         "Extra Funktionen",
         "Pflegbarkeit"
     ],
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Home",
             "linkTo": "/",
-            "linkTitle": "Outdoorhosen",
+            "linkTitle": "Zelt",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Outdoorhosen Shop",
+            "linkTitle": "Zelt Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "publish": true,
             "linkTo": "/marken/",
-            "linkTitle": "Outdoorhosen Marken"
+            "linkTitle": "Zelt Marken"
         },
         {
             "title": "Kontakt",
