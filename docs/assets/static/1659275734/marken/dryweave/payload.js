@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/dryweave", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/dryweave-dryweave-dachzelt-unterlage-zeltzubehoer-dryweave-5637343621.jpg":"\u002Fassets\u002Fimages\u002Fdryweave-dryweave-dachzelt-unterlage-zeltzubehoer-dryweave-5637343621.webp"}}],fetch:{},mutations:void 0});

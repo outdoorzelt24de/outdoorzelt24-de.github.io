@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/helinox", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/helinox-royal-box-shade-strandmuschel-helinox-5637690011.jpg":"\u002Fassets\u002Fimages\u002Fhelinox-royal-box-shade-strandmuschel-helinox-5637690011.webp"}}],fetch:{},mutations:void 0});
