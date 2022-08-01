@@ -13,17 +13,30 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
-    "socialMediaAccounts": [
-        {
-            "name": "Twitter",
-            "link": "https://www.twitter.com/outdoorzelt24",
-            "iconClass": "fab fa-twitter",
-            "published": false
-        }
+    "popularProducts": [
+        "5637932345",
+        "5637531466",
+        "5637726614"
     ],
+    "winnerProducts": [
+        "5637770253",
+        "5637829199",
+        "5637929835"
+    ],
+    "featuredCategories": [
+        "Strandmuscheln",
+        "Tunnelzelte",
+        "Kuppelzelte",
+        "Autodachzelte und Dachträger",
+        "Gruppenzelte",
+        "Zeltzubehör"
+    ],
+    "socialMediaAccounts": [{
+        "name": "Twitter",
+        "link": "https://www.twitter.com/outdoorzelt24",
+        "iconClass": "fab fa-twitter",
+        "published": false
+    }],
     "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
@@ -49,41 +62,36 @@
         "defaultTitle": "$PRODUKT online kaufen | Zelt Shop",
         "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
         "defaultRobots": "noindex, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "MSR Elixir 2 - Kuppelzelt günstig kaufen $DOMAIN",
-                    "metaDescription": "DESC: Das MSR Elixir 2 Kuppelzelt kaufen. Schnelles Aufbauen, absolut kleines Packmaß, super leicht und dennoch optimale Größe. $DOMAIN. Testsieger in der Kategorie Kuppelzelte.",
-                    "robots": "index, follow"
-                }
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "MSR Elixir 2 - Kuppelzelt günstig kaufen $DOMAIN",
+                "metaDescription": "DESC: Das MSR Elixir 2 Kuppelzelt kaufen. Schnelles Aufbauen, absolut kleines Packmaß, super leicht und dennoch optimale Größe. $DOMAIN. Testsieger in der Kategorie Kuppelzelte.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Zelt Shop",
         "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger.",
         "defaultRobots": "noindex, follow",
-        "categories": [
-            {
-                "key": "zelt",
-                "slug": "zelt",
-                "name": "zelt",
-                "seo": {
-                    "title": "Zelt kaufen",
-                    "metaDescription": "Alle Zelte im Überblick. Produkte und Testsieger. Finde das passende Zelt zu einem top Preis-Leistungs-Verhältnis.",
-                    "robots": "index, follow"
-                }
+        "categories": [{
+            "key": "zelt",
+            "slug": "zelt",
+            "name": "zelt",
+            "seo": {
+                "title": "Zelt kaufen",
+                "metaDescription": "Alle Zelte im Überblick. Produkte und Testsieger. Finde das passende Zelt zu einem top Preis-Leistungs-Verhältnis.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
     "brandSeo": {
         "defaultTitle": "Produkte von $HERSTELLER | Zelt Shop",
         "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Überblick im Zelt Shop. Preis-Leistungs-Verhältnis. Beliebte Produkte und Testsieger.",
         "defaultRobots": "noindex, follow",
-        "brands": [
-            {
+        "brands": [{
                 "key": "MSR",
                 "name": "MSR",
                 "seo": {
@@ -111,8 +119,7 @@
         "Extra Funktionen",
         "Pflegbarkeit"
     ],
-    "navigationLinks": [
-        {
+    "navigationLinks": [{
             "title": "Home",
             "linkTo": "/",
             "linkTitle": "Zelt",

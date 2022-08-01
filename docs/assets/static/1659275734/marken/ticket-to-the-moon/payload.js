@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/ticket-to-the-moon", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ticket-to-the-moon-moon-tarp-waterproof-hammock-tarp-tarp-ticket-to-the-moon-5637932895.jpg":"\u002Fassets\u002Fimages\u002Fticket-to-the-moon-moon-tarp-waterproof-hammock-tarp-tarp-ticket-to-the-moon-5637932895.webp"}}],fetch:{},mutations:void 0});

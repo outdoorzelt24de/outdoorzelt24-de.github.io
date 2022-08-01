@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/richard-fischer", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/richard-fischer-traeger-verlaengerung-zeltzubehoer-richard-fischer-5637343473.jpg":"\u002Fassets\u002Fimages\u002Frichard-fischer-traeger-verlaengerung-zeltzubehoer-richard-fischer-5637343473.webp"}}],fetch:{},mutations:void 0});

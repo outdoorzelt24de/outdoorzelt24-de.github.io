@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/eureka", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/eureka-floorsaver-pe-habitat-zeltplane-eureka-5637269462.jpg":"\u002Fassets\u002Fimages\u002Feureka-floorsaver-pe-habitat-zeltplane-eureka-5637269462.webp"}}],fetch:{},mutations:void 0});

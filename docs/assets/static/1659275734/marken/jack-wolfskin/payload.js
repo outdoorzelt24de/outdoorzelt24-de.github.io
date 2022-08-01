@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/jack-wolfskin", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/jack-wolfskin-floorsaver-gossamer-zeltplane-jack-wolfskin-5637506941.jpg":"\u002Fassets\u002Fimages\u002Fjack-wolfskin-floorsaver-gossamer-zeltplane-jack-wolfskin-5637506941.webp"}}],fetch:{},mutations:void 0});
