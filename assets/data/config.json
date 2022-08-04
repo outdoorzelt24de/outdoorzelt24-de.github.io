@@ -59,9 +59,9 @@
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT online kaufen | Zelt Shop",
-        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
-        "defaultRobots": "noindex, follow",
+        "defaultTitle": "$PRODUKT | Zelt Shop",
+        "defaultMetaDescription": "$HERSTELLER $PRODUKT im Zelt Shop kaufen. Du findest alle Zelte von $HERSTELLER. $PRODUKT ist sofort lieferbar.",
+        "defaultRobots": "index, follow",
         "products": [{
             "sku": "5637909794",
             "name": "Ortovox PALA PANTS Kletterhose",
@@ -74,8 +74,8 @@
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Zelt Shop",
-        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger.",
-        "defaultRobots": "noindex, follow",
+        "defaultMetaDescription": "Zelte aus der Kategorie $KATEGORIE in unserem Zelt Shop online bestellen. Produkte, Testsieger und beliebte $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "categories": [{
             "key": "zelt",
             "slug": "zelt",
@@ -88,9 +88,9 @@
         }]
     },
     "brandSeo": {
-        "defaultTitle": "Produkte von $HERSTELLER | Zelt Shop",
-        "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Überblick im Zelt Shop. Preis-Leistungs-Verhältnis. Beliebte Produkte und Testsieger.",
-        "defaultRobots": "noindex, follow",
+        "defaultTitle": "Zelte von $HERSTELLER | Zelt Shop",
+        "defaultMetaDescription": "Alle Zelte von $HERSTELLER im Überblick in unserem Zelt Shop. Best-Preis-Leistungs. Beliebte Zelte und Testsieger.",
+        "defaultRobots": "index, follow",
         "brands": [{
                 "key": "MSR",
                 "name": "MSR",
