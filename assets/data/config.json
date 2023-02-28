@@ -32,12 +32,14 @@
         "Gruppenzelte",
         "Zeltzubehör"
     ],
-    "socialMediaAccounts": [{
-        "name": "Twitter",
-        "link": "https://www.twitter.com/outdoorzelt24",
-        "iconClass": "fab fa-twitter",
-        "published": false
-    }],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/outdoorzelt24",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
     "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
@@ -47,59 +49,71 @@
             "title": "Zelt kaufen bei outdoorzelt24.de",
             "metaDescription": "Es gibt die unterschiedlichsten Zelte. Finde hier bei uns das richtige Zelt für dein Vorhaben. Ob das meist genutzte Kuppelzelt, Tunnelzelt, Wurfzelt und viele weitere Zeltarten, wir bieten dir einiges.",
             "robots": "index, follow",
-            "texts": [{
-                    "title": "Willkommen bei OutdoorZelt24.de",
-                    "text": "Willkommen bei OutdoorZelt24.de, Ihrem Onlineshop für hochwertige Outdoor-Ausrüstung und Campingbedarf. Wir bieten Ihnen eine große Auswahl an Produkten von namhaften Herstellern zu fairen Preisen, damit Sie Ihre Zeit im Freien in vollen Zügen genießen können."
-                },
-                {
-                    "title": "Strandmuscheln",
-                    "text": "Wenn Sie einen Tag am Strand planen, sind unsere <a href=\"/kategorie/strandmuscheln/\" title=\"Strandmuscheln\">Strandmuscheln</a> die perfekte Wahl. Sie bieten Schutz vor Sonne und Wind und sind einfach aufzubauen. Stöbern Sie durch unsere Auswahl und finden Sie die perfekte Strandmuschel für Ihren nächsten Ausflug."
-                },
-                {
-                    "title": "Zeltzubehör",
-                    "text": "Bei uns finden Sie alles, was Sie für Ihr Zelt benötigen. Von Zeltheringen und Abspannseilen bis hin zu Reparatursets und Ersatzteilen - wir haben das komplette <a href=\"/kategorie/zeltzubehoer/\" title=\"Zeltzubehör\">Zeltzubehör</a>, welches Sie benötigen, um Ihr Zelt in ein gemütliches Zuhause im Freien zu verwandeln."
-                },
-                {
-                    "title": "Tarps und Aufstellstangen",
-                    "text": "Unsere <a href=\"/kategorie/tarps-und-aufstellstangen/\" title=\"Tarps und Aufstellstangen\">Tarps und Aufstellstangen</a> sind die ideale Ergänzung zu Ihrem Zelt oder als eigenständiger Schutz vor Regen und Sonne. Sie sind einfach aufzubauen und bieten Schutz vor den Elementen. Werfen Sie einen Blick auf unser Sortiment und finden Sie das passende Tarp für Ihren nächsten Campingausflug."
-                },
-                {
-                    "title": "Kuppelzelte",
-                    "text": "Unsere <a href=\"/kategorie/kuppelzelte/\" title=\"Kuppelzelte\">Kuppelzelte</a> sind ideal für alle, die auf der Suche nach einem zuverlässigen und einfach aufzubauenden Zelt sind. Sie bieten genügend Platz für mehrere Personen und sind in verschiedenen Größen erhältlich. Entdecken Sie unser Angebot und finden Sie das perfekte Kuppelzelt für Ihre nächste Reise."
-                },
-                {
-                    "title": "Familienzelte",
-                    "text": "Für größere Gruppen und Familien bieten wir eine große Auswahl an <a href=\"/kategorie/familienzelte/\" title=\"Familienzelte\">Familienzelten</a>. Diese Zelte bieten viel Platz und Komfort und sind einfach aufzubauen. Schauen Sie sich unser Sortiment an und finden Sie das passende Zelt für Ihren nächsten Campingausflug."
-                },
-                {
-                    "title": "Autodachzelte und Dachträger",
-                    "text": "Wenn Sie mit dem Auto unterwegs sind, sind unsere <a href=\"/kategorie/autodachzelte-und-dachtraeger/\" title=\"Autodachzelte und Dachträger\">Autodachzelte und Dachträger</a> die ideale Lösung. Einfach auf das Autodach montiert bieten sie Ihnen eine bequeme und sichere Schlafgelegenheit. Entdecken Sie unser Sortiment und finden Sie das passende Autodachzelt oder den Dachträger für Ihr Fahrzeug."
-                },
-                {
-                    "title": "Geodäten",
-                    "text": "Für extreme Wetterbedingungen bieten wir <a href=\"/kategorie/geodaeten/\" title=\"Geodäten\">Geodäten</a> an. Diese Zelte sind besonders stabil und bieten Schutz vor starkem Wind und Schnee. Schauen Sie sich unser Angebot an und finden Sie das passende Zelt für Ihre nächste Expedition."
-                },
-                {
-                    "title": "Tunnelzelte",
-                    "text": "Unsere <a href=\"/kategorie/tunnelzelte/\" title=\"Tunnelzelte\">Tunnelzelte</a> sind die perfekte Wahl für alle, die viel Platz benötigen. Sie bieten viel Raum und sind einfach aufzubauen. Entdecken Sie unser Sortiment und finden Sie das passende Tunnelzelt für Ihren nächsten Campingausflug."
-                },
-                {
-                    "title": "Gruppenzelte",
-                    "text": "Für größere Gruppen und Veranstaltungen bieten wir eine Auswahl an <a href=\"/kategorie/gruppenzelte/\" title=\"Gruppenzelte\">Gruppenzelten</a> an. Diese Zelte bieten viel Platz und sind einfach aufzubauen. Schauen Sie sich unser Angebot an und finden Sie das passende Zelt für Ihre nächste Gruppenreise."
-                },
-                {
-                    "title": "1-Personen-Zelte",
-                    "text": "1-Personen-Zelte die ideale Wahl für alle, die allein unterwegs sind oder auf der Suche nach einem kompakten und leichten Zelt sind. Sie sind einfach aufzubauen und bieten dennoch genügend Platz für eine Person. Werfen Sie einen Blick auf unser Sortiment und finden Sie das perfekte <a href=\"/kategorie/1-personen-zelte/\" title=\"1-Personen-Zelte\">1-Personen-Zelt</a> für Ihre nächste Solo-Campingreise."
-                },
-                {
-                    "title": "Zeltheringe",
-                    "text": "Zeltheringe sind ein wichtiges Zubehör für jedes Zelt. Sie sorgen für einen stabilen und sicheren Halt und sind in verschiedenen Ausführungen erhältlich. Bei uns finden Sie eine große Auswahl an <a href=\"/kategorie/zeltheringe/\" title=\"Zeltheringe\">hochwertigen Zeltheringen</a>, die für jeden Untergrund geeignet sind."
-                },
-                {
-                    "title": "Hochwertige Zelte auf OutdoorZelt24.de",
-                    "text": "Wir bei OutdoorZelt24.de sind stolz darauf, hochwertige Produkte zu fairen Preisen anzubieten. Unser freundliches und kompetentes Team steht Ihnen jederzeit zur Verfügung und berät Sie gerne bei der Auswahl der passenden Ausrüstung. Bestellen Sie noch heute und profitieren Sie von unserem schnellen Versand und unserem exzellenten Kundenservice. Wir wünschen Ihnen viel Spaß bei Ihrer nächsten Outdoor-Abenteuer!"
-                }
-            ]
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Outdoorzelt24 - Ihrem Online-Shop für Zelte und Zubehör",
+                        "text": "Outdoorzelt24 ist Ihr Online-Shop für alle, die gerne draußen unterwegs sind und ein Zuhause im Freien suchen. Bei uns finden Sie eine große Auswahl an Zelten, Strandmuscheln, Zeltzubehör, Tarps und Aufstellstangen, Kuppelzelte, Familienzelte, Autodachzelte und Dachträger, Geodäten, Tunnelzelte, Gruppenzelte, 1-Personen-Zelte sowie Zeltheringe. Ob Sie ein erfahrener Camper sind oder Ihre erste Campingausrüstung kaufen möchten, wir haben für jeden Bedarf das passende Angebot. Unser Ziel ist es, Ihnen ein unvergessliches Campingerlebnis zu ermöglichen. Daher achten wir bei der Auswahl unserer Produkte besonders auf Qualität, Funktionalität und Langlebigkeit. Wir bieten Ihnen eine breite Palette an Markenprodukten zu attraktiven Preisen an, so dass Sie sicher das passende Zelt für Ihre Bedürfnisse finden werden.Wir sind stets bemüht, Ihnen den bestmöglichen Kundenservice zu bieten. Sollten Sie Fragen zu unseren Produkten oder Bestellungen haben, steht Ihnen unser kompetentes Team gerne zur Verfügung.Entdecken Sie jetzt unsere große Auswahl an Zelten und Zubehör und starten Sie Ihre nächste Campingabenteuer mit Outdoorzelt24."
+                    },
+                    {
+                        "title": "Strandmuscheln",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/strandmuscheln/\" title=\"Strandmuscheln\">Strandmuscheln</a> bietet eine große Auswahl an hochwertigen Strandmuscheln für Ihren nächsten Strandurlaub. Ob für den Einsatz am Strand, im Garten oder auf Reisen, unsere Strandmuscheln sind bequem, stabil und langlebig. Stöbern Sie durch unser Angebot und finden Sie die perfekte Strandmuschel für Ihre Bedürfnisse. Alle Produkte werden mit schneller Lieferung und hervorragendem Kundenservice geliefert."
+                    },
+                    {
+                        "title": "Zeltzubehör",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/zeltzubehoer/\" title=\"Zeltzubehör\">Zeltzubehör</a> finden Sie alles, was Sie für Ihr Zelt benötigen. Von Aufstellstangen und Heringen bis hin zu Regenschutz und Tragetaschen, wir haben alles, was Sie brauchen, um Ihr Zelt zu optimieren. Alle Produkte sind von höchster Qualität und werden zu günstigen Preisen angeboten. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Zubehör für Ihr Zelt."
+                    },
+                    {
+                        "title": "Tarps und Aufstellstangen",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/tarps-und-aufstellstangen/\" title=\"Tarps und Aufstellstangen\">Tarps und Aufstellstangen</a> finden Sie alles, was Sie für den Aufbau und die Optimierung Ihres Zeltes benötigen. Unsere Tarps sind langlebig und wasserdicht, während unsere Aufstellstangen stabil und einfach zu installieren sind. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Tarp und die passenden Aufstellstangen für Ihr Zelt. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+                    },
+                    {
+                        "title": "Kuppelzelte",
+                        "text": "Entdecken Sie unsere Kategorie <a href=\"/kategorie/kuppelzelte/\" title=\"Kuppelzelte\">Kuppelzelte</a> für Ihre nächste Outdoor-Abenteuer. Unsere Kuppelzelte sind einfach aufzubauen, stabil und bieten ausreichend Platz für eine oder mehrere Personen. Ob für Campingausflüge, Wandertouren oder Festivals, unsere Kuppelzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Kuppelzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+                    },
+                    {
+                        "title": "Familienzelte",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/familienzelte/\" title=\"Familienzelte\">Familienzelte</a> finden Sie Zelte für große Gruppen und Familien. Unsere Familienzelte bieten ausreichend Platz und Komfort für alle Familienmitglieder und sind einfach aufzubauen. Ob für den nächsten Campingausflug oder ein Wochenende im Freien, unsere Familienzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Familienzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+                    },
+                    {
+                        "title": "Autodachzelte und Dachträger",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/autodachzelte-und-dachtraeger/\" title=\"Autodachzelte und Dachträger\">Autodachzelte und Dachträger</a> finden Sie alles, was Sie für Ihre nächste Fahrzeug-Camping-Abenteuer benötigen. Unsere Autodachzelte bieten bequemen Schlafplatz auf dem Dach Ihres Fahrzeugs, während unsere Dachträger eine sichere Befestigung für Ihr Zelt ermöglichen. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Autodachzelt und den passenden Dachträger für Ihr Fahrzeug. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+                    },
+                    {
+                        "title": "Dachzeltzubehör",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/dachzeltzubehoer/\" title=\"Dachzeltzubehör\">Dachzeltzubehör</a> bietet alles, was Sie für Ihr Dachzelt benötigen. Von Heringen und Seilen bis hin zu Regenschutz und Tragetaschen, wir haben alles, was Sie brauchen, um Ihr Dachzelt optimal zu nutzen. Alle Produkte sind von höchster Qualität und werden zu günstigen Preisen angeboten. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Zubehör für Ihr Dachzelt."
+                    },
+                    {
+                        "title": "Autodachträger",
+                        "text": "Entdecken Sie unsere Kategorie <a href=\"/kategorie/autodachtraeger/\" title=\"Autodachträger\">Autodachträger</a> für Ihre nächste Outdoor-Abenteuer. Unsere Autodachträger bieten eine sichere Befestigung für Ihr Dachzelt oder andere Ausrüstung auf dem Dach Ihres Fahrzeugs. Alle Produkte sind stabil und einfach zu installieren. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Autodachträger für Ihr Fahrzeug. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+                    },
+                    {
+                        "title": "Dachzelte",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/dachzelte/\" title=\"Dachzelte\">Dachzelte</a> finden Sie eine große Auswahl an hochwertigen Dachzelten für Ihre nächste Outdoor-Abenteuer. Unsere Dachzelte bieten bequemen Schlafplatz auf dem Dach Ihres Fahrzeugs und sind einfach aufzubauen. Ob für Campingausflüge, Wandertouren oder Festivals, unsere Dachzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Dachzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+                    },
+                    {
+                        "title": "Geodäten",
+                        "text": "Entdecken Sie unsere Kategorie <a href=\"/kategorie/geodaeten/\" title=\"Geodäten\">Geodäten</a> für Ihre nächste Outdoor-Abenteuer. Unsere Geodäten bieten eine bequeme und stabile Unterkunft für eine oder mehrere Personen. Ob für Campingausflüge, Wandertouren oder Festivals, unsere Geodäten sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Geodach für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+                    },
+                    {
+                        "title": "Tunnelzelte",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/tunnelzelte/\" title=\"Tunnelzelte\">Tunnelzelte</a> finden Sie eine große Auswahl an hochwertigen Tunnelzelten für Ihre nächste Outdoor-Abenteuer. Unsere Tunnelzelte bieten ausreichend Platz und Stabilität für eine oder mehrere Personen. Ob für Campingausflüge, Wandertouren oder Festivals, unsere Tunnelzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Tunnelzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+                    },
+                    {
+                        "title": "Gruppenzelte",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/gruppenzelte/\" title=\"Gruppenzelte\">Gruppenzelte</a> finden Sie Zelte für große Gruppen und Familien. Unsere Gruppenzelte bieten ausreichend Platz und Komfort für alle Familienmitglieder und sind einfach aufzubauen. Ob für den nächsten Campingausflug oder ein Wochenende im Freien, unsere Gruppenzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Gruppenzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+                    },
+                    {
+                        "title": "1-Personen-Zelte",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/1-personen-zelte/\" title=\"1-Personen-Zelte\">1-Personen-Zelte</a> finden Sie eine große Auswahl an hochwertigen Zelten für eine Person. Unsere 1-Personen-Zelte sind leicht, einfach zu transportieren und bieten eine bequeme Unterkunft für eine Person. Ob für Campingausflüge, Wandertouren oder Festivals, unsere 1-Personen-Zelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte 1-Personen-Zelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+                    },
+                    {
+                        "title": "Zeltheringe",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/zeltheringe/\" title=\"Zeltheringe\">Zeltheringe</a> bietet alles, was Sie für die Befestigung Ihres Zelts benötigen. Von Heringen und Abspannseilen bis hin zu Zeltstangen und Zeltpflöcken, wir haben alles, was Sie brauchen, um Ihr Zelt optimal aufzustellen. Alle Produkte sind von höchster Qualität und werden zu günstigen Preisen angeboten. Stöbern Sie durch unser Sortiment und finden Sie die perfekten Zeltheringe für Ihr Zelt."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Alle Zelte und Hersteller im Überblick.",
@@ -116,36 +130,41 @@
         "defaultTitle": "$PRODUKT | Zelt Shop",
         "defaultMetaDescription": "$HERSTELLER $PRODUKT im Zelt Shop kaufen. Du findest alle Zelte von $HERSTELLER. $PRODUKT ist sofort lieferbar.",
         "defaultRobots": "index, follow",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "MSR Elixir 2 - Kuppelzelt günstig kaufen $DOMAIN",
-                "metaDescription": "DESC: Das MSR Elixir 2 Kuppelzelt kaufen. Schnelles Aufbauen, absolut kleines Packmaß, super leicht und dennoch optimale Größe. $DOMAIN. Testsieger in der Kategorie Kuppelzelte.",
-                "robots": "index, follow"
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "MSR Elixir 2 - Kuppelzelt günstig kaufen $DOMAIN",
+                    "metaDescription": "DESC: Das MSR Elixir 2 Kuppelzelt kaufen. Schnelles Aufbauen, absolut kleines Packmaß, super leicht und dennoch optimale Größe. $DOMAIN. Testsieger in der Kategorie Kuppelzelte.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Zelt Shop",
         "defaultMetaDescription": "Zelte aus der Kategorie $KATEGORIE in unserem Zelt Shop online bestellen. Produkte, Testsieger und beliebte $KATEGORIE.",
         "defaultRobots": "index, follow",
-        "categories": [{
-            "key": "zelt",
-            "slug": "zelt",
-            "name": "zelt",
-            "seo": {
-                "title": "Zelt kaufen",
-                "metaDescription": "Alle Zelte im Überblick. Produkte und Testsieger. Finde das passende Zelt zu einem top Preis-Leistungs-Verhältnis.",
-                "robots": "index, follow"
+        "categories": [
+            {
+                "key": "zelt",
+                "slug": "zelt",
+                "name": "zelt",
+                "seo": {
+                    "title": "Zelt kaufen",
+                    "metaDescription": "Alle Zelte im Überblick. Produkte und Testsieger. Finde das passende Zelt zu einem top Preis-Leistungs-Verhältnis.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
         "defaultTitle": "Zelte von $HERSTELLER | Zelt Shop",
         "defaultMetaDescription": "Alle Zelte von $HERSTELLER im Überblick in unserem Zelt Shop. Best-Preis-Leistungs. Beliebte Zelte und Testsieger.",
         "defaultRobots": "index, follow",
-        "brands": [{
+        "brands": [
+            {
                 "key": "MSR",
                 "name": "MSR",
                 "seo": {
@@ -173,7 +192,8 @@
         "Extra Funktionen",
         "Pflegbarkeit"
     ],
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Home",
             "linkTo": "/",
             "linkTitle": "Zelt",
