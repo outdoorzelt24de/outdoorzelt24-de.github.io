@@ -1,221 +1,323 @@
 {
-    "configIsReady": true,
-    "domain": "outdoorzelt24.de",
-    "hostname": "https://www.outdoorzelt24.de",
-    "email": "outdoorzelt24.de@surrealnetworks.io",
-    "organization": "outdoorzelt24.de",
-    "logoText": "Outdoorzelt24.de",
-    "title": "Zelt kaufen bei outdoorzelt24.de",
-    "subline": "Der Zelt Shop für alle Einsatzbereiche",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "5637932345",
-        "5637531466",
-        "5637726614"
-    ],
-    "winnerProducts": [
-        "5637770253",
-        "5637829199",
-        "5637929835"
-    ],
-    "featuredCategories": [
-        "Strandmuscheln",
-        "Tunnelzelte",
-        "Kuppelzelte",
-        "Autodachzelte und Dachträger",
-        "Gruppenzelte",
-        "Zeltzubehör"
-    ],
-    "socialMediaAccounts": [
-        {
-            "name": "Twitter",
-            "link": "https://www.twitter.com/outdoorzelt24",
-            "iconClass": "fab fa-twitter",
-            "published": false
-        }
-    ],
-    "imageQuality": 90,
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Zelt",
-        "featureText": "<p class=\"mb-4\">Outdoorzelt24.de ist Ihr Online-Shop für hochwertige Zelte für alle Bedürfnisse.</p><p class=\"mb-4\">Wir bieten eine breite Auswahl an Kuppelzelten, Familienzelten, Tunnelzelten, Gruppenzelten, 1-Personen-Zelten und vielem mehr. Jedes Zelt ist sorgfältig ausgewählt und bietet maximale Leistung bei minimalem Gewicht. Wir wissen, dass Sie bei Ihren Outdoor-Abenteuern ein Zelt benötigen, das Sie vor den Elementen schützt und Ihnen den Komfort bietet, den Sie verdienen. Mit Outdoorzelt24.de haben Sie die Garantie, dass Sie das beste Zelt für Ihre Bedürfnisse erhalten. Stöbern Sie durch unsere Kategorien und finden Sie genau das Zelt, das Sie benötigen. Wir sind stolz darauf, Ihnen eine einfache und bequeme Einkaufserfahrung zu bieten, damit Sie sich auf Ihr nächstes Abenteuer freuen können.</p>",
-        "index": {
-            "title": "Zelt kaufen bei outdoorzelt24.de",
-            "metaDescription": "Es gibt die unterschiedlichsten Zelte. Finde hier bei uns das richtige Zelt für dein Vorhaben. Ob das meist genutzte Kuppelzelt, Tunnelzelt, Wurfzelt und viele weitere Zeltarten, wir bieten dir einiges.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Outdoorzelt24 - Ihrem Online-Shop für Zelte und Zubehör",
-                        "text": "Outdoorzelt24 ist Ihr Online-Shop für alle, die gerne draußen unterwegs sind und ein Zuhause im Freien suchen. Bei uns finden Sie eine große Auswahl an Zelten, Strandmuscheln, Zeltzubehör, Tarps und Aufstellstangen, Kuppelzelte, Familienzelte, Autodachzelte und Dachträger, Geodäten, Tunnelzelte, Gruppenzelte, 1-Personen-Zelte sowie Zeltheringe. Ob Sie ein erfahrener Camper sind oder Ihre erste Campingausrüstung kaufen möchten, wir haben für jeden Bedarf das passende Angebot. Unser Ziel ist es, Ihnen ein unvergessliches Campingerlebnis zu ermöglichen. Daher achten wir bei der Auswahl unserer Produkte besonders auf Qualität, Funktionalität und Langlebigkeit. Wir bieten Ihnen eine breite Palette an Markenprodukten zu attraktiven Preisen an, so dass Sie sicher das passende Zelt für Ihre Bedürfnisse finden werden.Wir sind stets bemüht, Ihnen den bestmöglichen Kundenservice zu bieten. Sollten Sie Fragen zu unseren Produkten oder Bestellungen haben, steht Ihnen unser kompetentes Team gerne zur Verfügung.Entdecken Sie jetzt unsere große Auswahl an Zelten und Zubehör und starten Sie Ihre nächste Campingabenteuer mit Outdoorzelt24."
-                    },
-                    {
-                        "title": "Strandmuscheln",
-                        "text": "Unsere Kategorie <a href=\"/kategorie/strandmuscheln/\" title=\"Strandmuscheln\">Strandmuscheln</a> bietet eine große Auswahl an hochwertigen Strandmuscheln für Ihren nächsten Strandurlaub. Ob für den Einsatz am Strand, im Garten oder auf Reisen, unsere Strandmuscheln sind bequem, stabil und langlebig. Stöbern Sie durch unser Angebot und finden Sie die perfekte Strandmuschel für Ihre Bedürfnisse. Alle Produkte werden mit schneller Lieferung und hervorragendem Kundenservice geliefert."
-                    },
-                    {
-                        "title": "Zeltzubehör",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/zeltzubehoer/\" title=\"Zeltzubehör\">Zeltzubehör</a> finden Sie alles, was Sie für Ihr Zelt benötigen. Von Aufstellstangen und Heringen bis hin zu Regenschutz und Tragetaschen, wir haben alles, was Sie brauchen, um Ihr Zelt zu optimieren. Alle Produkte sind von höchster Qualität und werden zu günstigen Preisen angeboten. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Zubehör für Ihr Zelt."
-                    },
-                    {
-                        "title": "Tarps und Aufstellstangen",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/tarps-und-aufstellstangen/\" title=\"Tarps und Aufstellstangen\">Tarps und Aufstellstangen</a> finden Sie alles, was Sie für den Aufbau und die Optimierung Ihres Zeltes benötigen. Unsere Tarps sind langlebig und wasserdicht, während unsere Aufstellstangen stabil und einfach zu installieren sind. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Tarp und die passenden Aufstellstangen für Ihr Zelt. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
-                    },
-                    {
-                        "title": "Kuppelzelte",
-                        "text": "Entdecken Sie unsere Kategorie <a href=\"/kategorie/kuppelzelte/\" title=\"Kuppelzelte\">Kuppelzelte</a> für Ihre nächste Outdoor-Abenteuer. Unsere Kuppelzelte sind einfach aufzubauen, stabil und bieten ausreichend Platz für eine oder mehrere Personen. Ob für Campingausflüge, Wandertouren oder Festivals, unsere Kuppelzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Kuppelzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
-                    },
-                    {
-                        "title": "Familienzelte",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/familienzelte/\" title=\"Familienzelte\">Familienzelte</a> finden Sie Zelte für große Gruppen und Familien. Unsere Familienzelte bieten ausreichend Platz und Komfort für alle Familienmitglieder und sind einfach aufzubauen. Ob für den nächsten Campingausflug oder ein Wochenende im Freien, unsere Familienzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Familienzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
-                    },
-                    {
-                        "title": "Autodachzelte und Dachträger",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/autodachzelte-und-dachtraeger/\" title=\"Autodachzelte und Dachträger\">Autodachzelte und Dachträger</a> finden Sie alles, was Sie für Ihre nächste Fahrzeug-Camping-Abenteuer benötigen. Unsere Autodachzelte bieten bequemen Schlafplatz auf dem Dach Ihres Fahrzeugs, während unsere Dachträger eine sichere Befestigung für Ihr Zelt ermöglichen. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Autodachzelt und den passenden Dachträger für Ihr Fahrzeug. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
-                    },
-                    {
-                        "title": "Dachzeltzubehör",
-                        "text": "Unsere Kategorie <a href=\"/kategorie/dachzeltzubehoer/\" title=\"Dachzeltzubehör\">Dachzeltzubehör</a> bietet alles, was Sie für Ihr Dachzelt benötigen. Von Heringen und Seilen bis hin zu Regenschutz und Tragetaschen, wir haben alles, was Sie brauchen, um Ihr Dachzelt optimal zu nutzen. Alle Produkte sind von höchster Qualität und werden zu günstigen Preisen angeboten. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Zubehör für Ihr Dachzelt."
-                    },
-                    {
-                        "title": "Autodachträger",
-                        "text": "Entdecken Sie unsere Kategorie <a href=\"/kategorie/autodachtraeger/\" title=\"Autodachträger\">Autodachträger</a> für Ihre nächste Outdoor-Abenteuer. Unsere Autodachträger bieten eine sichere Befestigung für Ihr Dachzelt oder andere Ausrüstung auf dem Dach Ihres Fahrzeugs. Alle Produkte sind stabil und einfach zu installieren. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Autodachträger für Ihr Fahrzeug. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
-                    },
-                    {
-                        "title": "Dachzelte",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/dachzelte/\" title=\"Dachzelte\">Dachzelte</a> finden Sie eine große Auswahl an hochwertigen Dachzelten für Ihre nächste Outdoor-Abenteuer. Unsere Dachzelte bieten bequemen Schlafplatz auf dem Dach Ihres Fahrzeugs und sind einfach aufzubauen. Ob für Campingausflüge, Wandertouren oder Festivals, unsere Dachzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Dachzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
-                    },
-                    {
-                        "title": "Geodäten",
-                        "text": "Entdecken Sie unsere Kategorie <a href=\"/kategorie/geodaeten/\" title=\"Geodäten\">Geodäten</a> für Ihre nächste Outdoor-Abenteuer. Unsere Geodäten bieten eine bequeme und stabile Unterkunft für eine oder mehrere Personen. Ob für Campingausflüge, Wandertouren oder Festivals, unsere Geodäten sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Geodach für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
-                    },
-                    {
-                        "title": "Tunnelzelte",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/tunnelzelte/\" title=\"Tunnelzelte\">Tunnelzelte</a> finden Sie eine große Auswahl an hochwertigen Tunnelzelten für Ihre nächste Outdoor-Abenteuer. Unsere Tunnelzelte bieten ausreichend Platz und Stabilität für eine oder mehrere Personen. Ob für Campingausflüge, Wandertouren oder Festivals, unsere Tunnelzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Tunnelzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
-                    },
-                    {
-                        "title": "Gruppenzelte",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/gruppenzelte/\" title=\"Gruppenzelte\">Gruppenzelte</a> finden Sie Zelte für große Gruppen und Familien. Unsere Gruppenzelte bieten ausreichend Platz und Komfort für alle Familienmitglieder und sind einfach aufzubauen. Ob für den nächsten Campingausflug oder ein Wochenende im Freien, unsere Gruppenzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Gruppenzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
-                    },
-                    {
-                        "title": "1-Personen-Zelte",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/1-personen-zelte/\" title=\"1-Personen-Zelte\">1-Personen-Zelte</a> finden Sie eine große Auswahl an hochwertigen Zelten für eine Person. Unsere 1-Personen-Zelte sind leicht, einfach zu transportieren und bieten eine bequeme Unterkunft für eine Person. Ob für Campingausflüge, Wandertouren oder Festivals, unsere 1-Personen-Zelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte 1-Personen-Zelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
-                    },
-                    {
-                        "title": "Zeltheringe",
-                        "text": "Unsere Kategorie <a href=\"/kategorie/zeltheringe/\" title=\"Zeltheringe\">Zeltheringe</a> bietet alles, was Sie für die Befestigung Ihres Zelts benötigen. Von Heringen und Abspannseilen bis hin zu Zeltstangen und Zeltpflöcken, wir haben alles, was Sie brauchen, um Ihr Zelt optimal aufzustellen. Alle Produkte sind von höchster Qualität und werden zu günstigen Preisen angeboten. Stöbern Sie durch unser Sortiment und finden Sie die perfekten Zeltheringe für Ihr Zelt."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Alle Zelte und Hersteller im Überblick.",
-            "metaDescription": "Hier findest du alle Zelte, aufgeteilt in Zeltarten und Personenanzahl. Das Zelt sollte dir eine zuverlässige Behausung bieten. Zelt kaufen und Abenteuer genießen.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Alle Marken für Zelte im Überblick",
-            "metaDescription": "Eine Auflistung aller Marken und Hersteller für Zelte im Überblick.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | Zelt Shop",
-        "defaultMetaDescription": "$HERSTELLER $PRODUKT im Zelt Shop kaufen. Du findest alle Zelte von $HERSTELLER. $PRODUKT ist sofort lieferbar.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "MSR Elixir 2 - Kuppelzelt günstig kaufen $DOMAIN",
-                    "metaDescription": "DESC: Das MSR Elixir 2 Kuppelzelt kaufen. Schnelles Aufbauen, absolut kleines Packmaß, super leicht und dennoch optimale Größe. $DOMAIN. Testsieger in der Kategorie Kuppelzelte.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "outdoorzelt24.de",
+  "hostname": "https://www.outdoorzelt24.de",
+  "email": "outdoorzelt24.de@surrealnetworks.io",
+  "organization": "outdoorzelt24.de",
+  "logoText": "Outdoorzelt24.de",
+  "title": "Zelt kaufen bei outdoorzelt24.de",
+  "subline": "Der Zelt Shop für alle Einsatzbereiche",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "5637932345",
+    "5637531466",
+    "5637726614"
+  ],
+  "winnerProducts": [
+    "5637770253",
+    "5637829199",
+    "5637929835"
+  ],
+  "featuredCategories": [
+    "Strandmuscheln",
+    "Tunnelzelte",
+    "Kuppelzelte",
+    "Autodachzelte und Dachträger",
+    "Gruppenzelte",
+    "Zeltzubehör"
+  ],
+  "socialMediaAccounts": [
+    {
+      "name": "Twitter",
+      "link": "https://www.twitter.com/outdoorzelt24",
+      "iconClass": "fab fa-twitter",
+      "published": false
+    }
+  ],
+  "imageQuality": 90,
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Zelt",
+    "featureText": "<p class=\"mb-4\">Outdoorzelt24.de ist Ihr Online-Shop für hochwertige Zelte für alle Bedürfnisse.</p><p class=\"mb-4\">Wir bieten eine breite Auswahl an Kuppelzelten, Familienzelten, Tunnelzelten, Gruppenzelten, 1-Personen-Zelten und vielem mehr. Jedes Zelt ist sorgfältig ausgewählt und bietet maximale Leistung bei minimalem Gewicht. Wir wissen, dass Sie bei Ihren Outdoor-Abenteuern ein Zelt benötigen, das Sie vor den Elementen schützt und Ihnen den Komfort bietet, den Sie verdienen. Mit Outdoorzelt24.de haben Sie die Garantie, dass Sie das beste Zelt für Ihre Bedürfnisse erhalten. Stöbern Sie durch unsere Kategorien und finden Sie genau das Zelt, das Sie benötigen. Wir sind stolz darauf, Ihnen eine einfache und bequeme Einkaufserfahrung zu bieten, damit Sie sich auf Ihr nächstes Abenteuer freuen können.</p>",
+    "index": {
+      "title": "Zelt kaufen bei outdoorzelt24.de",
+      "metaDescription": "Es gibt die unterschiedlichsten Zelte. Finde hier bei uns das richtige Zelt für dein Vorhaben. Ob das meist genutzte Kuppelzelt, Tunnelzelt, Wurfzelt und viele weitere Zeltarten, wir bieten dir einiges.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Outdoorzelt24 - Ihrem Online-Shop für Zelte und Zubehör",
+            "text": "Outdoorzelt24 ist Ihr Online-Shop für alle, die gerne draußen unterwegs sind und ein Zuhause im Freien suchen. Bei uns finden Sie eine große Auswahl an Zelten, Strandmuscheln, Zeltzubehör, Tarps und Aufstellstangen, Kuppelzelte, Familienzelte, Autodachzelte und Dachträger, Geodäten, Tunnelzelte, Gruppenzelte, 1-Personen-Zelte sowie Zeltheringe. Ob Sie ein erfahrener Camper sind oder Ihre erste Campingausrüstung kaufen möchten, wir haben für jeden Bedarf das passende Angebot. Unser Ziel ist es, Ihnen ein unvergessliches Campingerlebnis zu ermöglichen. Daher achten wir bei der Auswahl unserer Produkte besonders auf Qualität, Funktionalität und Langlebigkeit. Wir bieten Ihnen eine breite Palette an Markenprodukten zu attraktiven Preisen an, so dass Sie sicher das passende Zelt für Ihre Bedürfnisse finden werden.Wir sind stets bemüht, Ihnen den bestmöglichen Kundenservice zu bieten. Sollten Sie Fragen zu unseren Produkten oder Bestellungen haben, steht Ihnen unser kompetentes Team gerne zur Verfügung.Entdecken Sie jetzt unsere große Auswahl an Zelten und Zubehör und starten Sie Ihre nächste Campingabenteuer mit Outdoorzelt24."
+          },
+          {
+            "title": "Strandmuscheln",
+            "text": "Unsere Kategorie <a href=\"/kategorie/strandmuscheln/\" title=\"Strandmuscheln\">Strandmuscheln</a> bietet eine große Auswahl an hochwertigen Strandmuscheln für Ihren nächsten Strandurlaub. Ob für den Einsatz am Strand, im Garten oder auf Reisen, unsere Strandmuscheln sind bequem, stabil und langlebig. Stöbern Sie durch unser Angebot und finden Sie die perfekte Strandmuschel für Ihre Bedürfnisse. Alle Produkte werden mit schneller Lieferung und hervorragendem Kundenservice geliefert."
+          },
+          {
+            "title": "Zeltzubehör",
+            "text": "In unserer Kategorie <a href=\"/kategorie/zeltzubehoer/\" title=\"Zeltzubehör\">Zeltzubehör</a> finden Sie alles, was Sie für Ihr Zelt benötigen. Von Aufstellstangen und Heringen bis hin zu Regenschutz und Tragetaschen, wir haben alles, was Sie brauchen, um Ihr Zelt zu optimieren. Alle Produkte sind von höchster Qualität und werden zu günstigen Preisen angeboten. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Zubehör für Ihr Zelt."
+          },
+          {
+            "title": "Tarps und Aufstellstangen",
+            "text": "In unserer Kategorie <a href=\"/kategorie/tarps-und-aufstellstangen/\" title=\"Tarps und Aufstellstangen\">Tarps und Aufstellstangen</a> finden Sie alles, was Sie für den Aufbau und die Optimierung Ihres Zeltes benötigen. Unsere Tarps sind langlebig und wasserdicht, während unsere Aufstellstangen stabil und einfach zu installieren sind. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Tarp und die passenden Aufstellstangen für Ihr Zelt. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+          },
+          {
+            "title": "Kuppelzelte",
+            "text": "Entdecken Sie unsere Kategorie <a href=\"/kategorie/kuppelzelte/\" title=\"Kuppelzelte\">Kuppelzelte</a> für Ihre nächste Outdoor-Abenteuer. Unsere Kuppelzelte sind einfach aufzubauen, stabil und bieten ausreichend Platz für eine oder mehrere Personen. Ob für Campingausflüge, Wandertouren oder Festivals, unsere Kuppelzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Kuppelzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+          },
+          {
+            "title": "Familienzelte",
+            "text": "In unserer Kategorie <a href=\"/kategorie/familienzelte/\" title=\"Familienzelte\">Familienzelte</a> finden Sie Zelte für große Gruppen und Familien. Unsere Familienzelte bieten ausreichend Platz und Komfort für alle Familienmitglieder und sind einfach aufzubauen. Ob für den nächsten Campingausflug oder ein Wochenende im Freien, unsere Familienzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Familienzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+          },
+          {
+            "title": "Autodachzelte und Dachträger",
+            "text": "In unserer Kategorie <a href=\"/kategorie/autodachzelte-und-dachtraeger/\" title=\"Autodachzelte und Dachträger\">Autodachzelte und Dachträger</a> finden Sie alles, was Sie für Ihre nächste Fahrzeug-Camping-Abenteuer benötigen. Unsere Autodachzelte bieten bequemen Schlafplatz auf dem Dach Ihres Fahrzeugs, während unsere Dachträger eine sichere Befestigung für Ihr Zelt ermöglichen. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Autodachzelt und den passenden Dachträger für Ihr Fahrzeug. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+          },
+          {
+            "title": "Dachzeltzubehör",
+            "text": "Unsere Kategorie <a href=\"/kategorie/dachzeltzubehoer/\" title=\"Dachzeltzubehör\">Dachzeltzubehör</a> bietet alles, was Sie für Ihr Dachzelt benötigen. Von Heringen und Seilen bis hin zu Regenschutz und Tragetaschen, wir haben alles, was Sie brauchen, um Ihr Dachzelt optimal zu nutzen. Alle Produkte sind von höchster Qualität und werden zu günstigen Preisen angeboten. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Zubehör für Ihr Dachzelt."
+          },
+          {
+            "title": "Autodachträger",
+            "text": "Entdecken Sie unsere Kategorie <a href=\"/kategorie/autodachtraeger/\" title=\"Autodachträger\">Autodachträger</a> für Ihre nächste Outdoor-Abenteuer. Unsere Autodachträger bieten eine sichere Befestigung für Ihr Dachzelt oder andere Ausrüstung auf dem Dach Ihres Fahrzeugs. Alle Produkte sind stabil und einfach zu installieren. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Autodachträger für Ihr Fahrzeug. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+          },
+          {
+            "title": "Dachzelte",
+            "text": "In unserer Kategorie <a href=\"/kategorie/dachzelte/\" title=\"Dachzelte\">Dachzelte</a> finden Sie eine große Auswahl an hochwertigen Dachzelten für Ihre nächste Outdoor-Abenteuer. Unsere Dachzelte bieten bequemen Schlafplatz auf dem Dach Ihres Fahrzeugs und sind einfach aufzubauen. Ob für Campingausflüge, Wandertouren oder Festivals, unsere Dachzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Dachzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+          },
+          {
+            "title": "Geodäten",
+            "text": "Entdecken Sie unsere Kategorie <a href=\"/kategorie/geodaeten/\" title=\"Geodäten\">Geodäten</a> für Ihre nächste Outdoor-Abenteuer. Unsere Geodäten bieten eine bequeme und stabile Unterkunft für eine oder mehrere Personen. Ob für Campingausflüge, Wandertouren oder Festivals, unsere Geodäten sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Geodach für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+          },
+          {
+            "title": "Tunnelzelte",
+            "text": "In unserer Kategorie <a href=\"/kategorie/tunnelzelte/\" title=\"Tunnelzelte\">Tunnelzelte</a> finden Sie eine große Auswahl an hochwertigen Tunnelzelten für Ihre nächste Outdoor-Abenteuer. Unsere Tunnelzelte bieten ausreichend Platz und Stabilität für eine oder mehrere Personen. Ob für Campingausflüge, Wandertouren oder Festivals, unsere Tunnelzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Tunnelzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+          },
+          {
+            "title": "Gruppenzelte",
+            "text": "In unserer Kategorie <a href=\"/kategorie/gruppenzelte/\" title=\"Gruppenzelte\">Gruppenzelte</a> finden Sie Zelte für große Gruppen und Familien. Unsere Gruppenzelte bieten ausreichend Platz und Komfort für alle Familienmitglieder und sind einfach aufzubauen. Ob für den nächsten Campingausflug oder ein Wochenende im Freien, unsere Gruppenzelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Gruppenzelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+          },
+          {
+            "title": "1-Personen-Zelte",
+            "text": "In unserer Kategorie <a href=\"/kategorie/1-personen-zelte/\" title=\"1-Personen-Zelte\">1-Personen-Zelte</a> finden Sie eine große Auswahl an hochwertigen Zelten für eine Person. Unsere 1-Personen-Zelte sind leicht, einfach zu transportieren und bieten eine bequeme Unterkunft für eine Person. Ob für Campingausflüge, Wandertouren oder Festivals, unsere 1-Personen-Zelte sind die perfekte Wahl. Stöbern Sie durch unser Sortiment und finden Sie das perfekte 1-Personen-Zelt für Ihre Bedürfnisse. Alle Produkte werden zu günstigen Preisen und mit schneller Lieferung angeboten."
+          },
+          {
+            "title": "Zeltheringe",
+            "text": "Unsere Kategorie <a href=\"/kategorie/zeltheringe/\" title=\"Zeltheringe\">Zeltheringe</a> bietet alles, was Sie für die Befestigung Ihres Zelts benötigen. Von Heringen und Abspannseilen bis hin zu Zeltstangen und Zeltpflöcken, wir haben alles, was Sie brauchen, um Ihr Zelt optimal aufzustellen. Alle Produkte sind von höchster Qualität und werden zu günstigen Preisen angeboten. Stöbern Sie durch unser Sortiment und finden Sie die perfekten Zeltheringe für Ihr Zelt."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Zelt Shop",
-        "defaultMetaDescription": "Zelte aus der Kategorie $KATEGORIE in unserem Zelt Shop online bestellen. Produkte, Testsieger und beliebte $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "zelt",
-                "slug": "zelt",
-                "name": "zelt",
-                "seo": {
-                    "title": "Zelt kaufen",
-                    "metaDescription": "Alle Zelte im Überblick. Produkte und Testsieger. Finde das passende Zelt zu einem top Preis-Leistungs-Verhältnis.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
+    "shop": {
+      "title": "Alle Zelte und Hersteller im Überblick.",
+      "metaDescription": "Hier findest du alle Zelte, aufgeteilt in Zeltarten und Personenanzahl. Das Zelt sollte dir eine zuverlässige Behausung bieten. Zelt kaufen und Abenteuer genießen.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Zelte von $HERSTELLER | Zelt Shop",
-        "defaultMetaDescription": "Alle Zelte von $HERSTELLER im Überblick in unserem Zelt Shop. Best-Preis-Leistungs. Beliebte Zelte und Testsieger.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "MSR",
-                "name": "MSR",
-                "seo": {
-                    "title": "Produkte von MSR günstig kaufen",
-                    "metaDescription": "Alle Produkte von MSR im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor-Zelt-Produkte.",
-                    "robots": "index, follow"
-                }
-            },
-            {
-                "key": "Sea to Summit",
-                "name": "Sea to Summit",
-                "seo": {
-                    "title": "Produkte von Sea to Summit günstig kaufen",
-                    "metaDescription": "Alle Produkte von Sea to Summit im Überblick. Produkte und Testsieger. Zusammen mit MSR bildet Sea to Summit die Spitze der Zelte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "checklist": [
-        "Material",
-        "Atmungsaktivität",
-        "Wasserfestigkeit",
-        "Komfort",
-        "Extra Funktionen",
-        "Pflegbarkeit"
-    ],
-    "navigationLinks": [
-        {
-            "title": "Home",
-            "linkTo": "/",
-            "linkTitle": "Zelt",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Zelt Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "publish": true,
-            "linkTo": "/marken/",
-            "linkTitle": "Zelt Marken"
-        },
-        {
-            "title": "Kontakt",
-            "linkTitle": "Kontakt aufnehmen",
-            "linkTo": "#kontakt",
-            "publish": false
+    "hersteller": {
+      "title": "Alle Marken für Zelte im Überblick",
+      "metaDescription": "Eine Auflistung aller Marken und Hersteller für Zelte im Überblick.",
+      "robots": "index, follow"
+    }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | Zelt Shop",
+    "defaultMetaDescription": "$HERSTELLER $PRODUKT im Zelt Shop kaufen. Du findest alle Zelte von $HERSTELLER. $PRODUKT ist sofort lieferbar.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "MSR Elixir 2 - Kuppelzelt günstig kaufen $DOMAIN",
+          "metaDescription": "DESC: Das MSR Elixir 2 Kuppelzelt kaufen. Schnelles Aufbauen, absolut kleines Packmaß, super leicht und dennoch optimale Größe. $DOMAIN. Testsieger in der Kategorie Kuppelzelte.",
+          "robots": "index, follow"
         }
+      },
+      {
+        "sku": "5637770253",
+        "seo": {
+          "texts": [
+            {
+              "title": "Heimplanet BACKDOOR 3 SEASON Kuppelzelt: Komfort und Funktionalität in einem",
+              "text": "<p class=\"justify\">Das Heimplanet BACKDOOR 3 SEASON Kuppelzelt ist das perfekte Zelt für Outdoor-Enthusiasten, die auf der Suche nach Komfort und Funktionalität sind. Dieses Kuppelzelt von Heimplanet ist in der Farbe Cairo Camo erhältlich und besticht durch sein innovatives Design und die hochwertige Verarbeitung. Das Zelt gehört zur Kategorie Ausrüstung und ist besonders geeignet für Outdoor-Aktivitäten wie Camping, Trekking und Wandern.</p><p class=\"justify\">Das BACKDOOR 3 SEASON Zelt bietet Platz für bis zu drei Personen und ist ideal für den Einsatz in der dreijährigen Jahreszeit. Es verfügt über eine stabile Konstruktion, die in verschiedenen Wetterbedingungen standhält. Die hochwertigen Materialien sorgen für Widerstandsfähigkeit und Langlebigkeit und bieten gleichzeitig Atmungsaktivität und Komfort. Die Zeltwand ist aus strapazierfähigem Polyester gefertigt, während das Außenzelt aus wasserdichtem Polyurethan-beschichtetem Nylon besteht. Zusammen bieten diese Materialien optimalen Schutz vor Wind, Regen und anderen Wetterbedingungen.</p><p class=\"justify\">Das Heimplanet BACKDOOR 3 SEASON Kuppelzelt verfügt über mehrere Belüftungsöffnungen, die für eine gute Luftzirkulation sorgen und das Kondenswasser im Inneren des Zeltes reduzieren. Die Innenbereich ist geräumig und bietet genügend Platz für drei Personen sowie ihre Ausrüstung. Zudem verfügt das Zelt über zwei Eingänge und eine praktische Apsis, die zusätzlichen Stauraum bietet.</p><p class=\"justify\">Mit einer durchschnittlichen Bewertung von 4 Sternen bei 215 Rezensionen hat das Heimplanet BACKDOOR 3 SEASON Kuppelzelt zahlreiche zufriedene Kunden und bestätigt seine Qualität und Zuverlässigkeit. Wenn Sie auf der Suche nach dem perfekten Zelt für Ihr nächstes Outdoor-Abenteuer sind, sollten Sie das Heimplanet BACKDOOR 3 SEASON Kuppelzelt in Betracht ziehen. Es ist nicht nur funktional und langlebig, sondern auch äußerst stilvoll dank seiner einzigartigen Cairo Camo Farbgebung.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5637829199",
+        "seo": {
+          "texts": [
+            {
+              "title": "Tatonka ROKUA 3 Tunnelzelt: Vielseitiges und hochwertiges 3-Personen-Zelt",
+              "text": "<p class=\"justify\">Das Tatonka ROKUA 3 Tunnelzelt ist ein äußerst vielseitiges und hochwertiges Tunnelzelt für drei Personen, entwickelt von der renommierten Marke Tatonka. Mit seiner robusten Konstruktion und dem ansprechenden Design in der Farbe Stone Grey Olive eignet sich das Tunnelzelt perfekt für diverse Outdoor-Abenteuer wie Wandern, Camping und Trekking-Touren. Zudem gehört das ROKUA 3 zu den äußerst beliebten Tunnelzelten der Kategorie Ausrüstung und hat zahlreiche begeisterte Anwender weltweit.</p><p class=\"justify\">Das Tatonka ROKUA 3 Tunnelzelt verfügt über ein umfangreiches Platzangebot und bietet optimalen Schutz vor Wind und Wetter. Dabei profitieren die Nutzerinnen und Nutzer von dem erstklassigen Design und der soliden Verarbeitung, die sich insbesondere in langlebigen Materialien und einer hohen Funktionalität widerspiegelt. Darüber hinaus ist das Zelt vergleichsweise leicht, sodass es einfach transportiert und aufgebaut werden kann.</p><p class=\"justify\">Als Teil der Kategorien Zelte und Tunnelzelte hat das Tatonka ROKUA 3 gute Noten von Experten und Kunden erhalten. Mit insgesamt 421 Rezensionen und vier Sternen kann sich das Zelt als vertrauenswürdige und empfehlenswerte Option für Outdoor-Enthusiasten präsentieren. Das Produkt mit der Artikelnummer 5637829199 bietet zudem einen hervorragenden Preis. Bei 769,95 Euro erhalten Käuferinnen und Käufer ein verlässliches und komfortables Zelt, welches für jahrelange Abenteuer im Freien konzipiert wurde.</p><p class=\"justify\">Zusammenfassend ist das Tatonka ROKUA 3 Tunnelzelt eine ausgezeichnete Wahl für alle, die ein langlebiges, robustes und bequemes Tunnelzelt für drei Personen suchen. Die Marke Tatonka bürgt für Qualität und Innovation, weshalb dieses Tunnelzelt das Potential hat, zu einem unverzichtbaren Begleiter für eine Vielzahl von Outdoor-Aktivitäten und Expeditionen zu werden. Lassen Sie sich von der hohen Kundenzufriedenheit und den überzeugenden Produktdetails inspirieren, und setzen Sie auf das Tatonka ROKUA 3 Tunnelzelt für unvergessliche Erlebnisse in der Natur.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5637929835",
+        "seo": {
+          "texts": [
+            {
+              "title": "MSR FREELITE 1 Einpersonenzelt - Leichtes und kompaktes Zelt für Alleinreisende",
+              "text": "<p class=\"justify\">Das MSR FREELITE 1 Einpersonenzelt ist ein leichtes und kompaktes Zelt, das optimal für Alleinreisende geeignet ist. Mit seiner grünen Farbe fügt sich das Zelt harmonisch in die Natur ein. Das Zelt der renommierten Marke MSR besticht durch sein minimalistisches Design und sein geringes Gewicht, wodurch es sich perfekt für Rucksacktouren, Wanderungen oder Ausflüge mit dem Fahrrad eignet.</p><p class=\"justify\">Dieses Modell gehört zur Kategorie 1-Personen-Zelte und zeichnet sich durch seine Robustheit und Zuverlässigkeit aus. Das Außenmaterial besteht aus widerstandsfähigem und wasserdichtem Material, während das Innenzelt über Mesh-Einsätze verfügt, die für eine gute Belüftung sorgen. Das macht das MSR FREELITE 1 auch bei schlechteren Wetterbedingungen zu einer verlässlichen Wahl.</p><p class=\"justify\">Die MSR Produktlinie FREELITE 1 ist speziell auf die Bedürfnisse von Einzelreisenden zugeschnitten und legt dabei großen Wert auf ein einfaches Aufbau-System. Das Gestänge des FREELITE 1 zeichnet sich durch seine hohe Stabilität und Leichtigkeit aus und sorgt dafür, dass das Zelt auch bei stärkerem Wind standfest bleibt.</p><p class=\"justify\">Mit einem durchschnittlichen Kundenbewertung von 4 Sternen bei 174 Bewertungen zeigt das MSR FREELITE 1, dass es den hohen Anforderungen an Qualität, Funktionalität und Langlebigkeit, die Outdoor-Enthusiasten an ihre Ausrüstung stellen, gerecht wird. Die grüne Farbgebung des Zeltes trägt zur unauffälligen Optik bei und fügt sich ideal in natürliche Umgebungen ein.</p><p class=\"justify\">Wenn Sie auf der Suche nach einem verlässlichen und kompakten Zelt für Ihre Solo-Abenteuer sind, ist das MSR FREELITE 1 Einpersonenzelt genau das richtige Modell für Sie. Mit seiner hohen Qualität, starker Performance und einfachen Handhabung bildet das Zelt die ideale Grundlage für unvergessliche Erlebnisse in der Natur.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5637531416",
+        "seo": {
+          "texts": [
+            {
+              "title": "Fjällräven DOME 2 FOOTPRINT Zeltzubehör",
+              "text": "<p class=\"justify\">Das Fjällräven DOME 2 FOOTPRINT Zeltzubehör (SKU: 5637531416) ist ein hochwertiges und praktisches Zubehörteil für Ihr Outdoor-Abenteuer. Die renommierte Marke Fjällräven bietet dieses Zeltzubehör in zeitlosem Schwarz an, das optimal zu Ihrer Ausrüstung passt.</p><p class=\"justify\">Das Fjällräven DOME 2 FOOTPRINT Zeltzubehör ist ein unverzichtbares Produkt für alle Outdoor-Liebhaber. Es schützt den Boden Ihres Zelts vor Abnutzung, Schmutz und Feuchtigkeit. Gleichzeitig verbessert es den Komfort und die Lebensdauer Ihres Zeltes, indem es eine zusätzliche Schutzschicht zwischen dem Zeltboden und dem Untergrund bildet.</p><p class=\"justify\">Das DOME 2 FOOTPRINT von Fjällräven gehört zur Kategorie Ausrüstung und ist speziell für die Nutzung mit Zelten konzipiert. In den Kategorien Zelte und Zeltzubehör finden Sie weitere nützliche Produkte für Ihre Outdoor-Aktivitäten. Dieses strapazierfähige Zeltzubehör hat bereits 66 Bewertungen erhalten und ist mit 4 Sternen ausgezeichnet worden, was seine hohe Qualität und Zufriedenheit unter den Nutzern unterstreicht.</p><p class=\"justify\">Das Fjällräven DOME 2 FOOTPRINT Zeltzubehör ist zum Preis von 104,95 € erhältlich und bietet ein hervorragendes Preis-Leistungs-Verhältnis. Mit einem solchen Zeltzubehör haben Sie die Sicherheit, auf Ihren Outdoor-Touren stets bestens geschützt und komfortabel zu sein. Vertrauen Sie auf die bewährte Qualität von Fjällräven und erleben Sie unvergessliche Outdoor-Abenteuer mit diesem nützlichen und langlebigen Zeltzubehör.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5637456572",
+        "seo": {
+          "texts": [
+            {
+              "title": "FRILUFTS GRASSHOLM 4 Familienzelt - Perfekt für den nächsten Outdoor-Ausflug",
+              "text": "<p class=\"justify\">Das FRILUFTS GRASSHOLM 4 Familienzelt ist das ideale Zelt für alle, die auf der Suche nach einem geräumigen, robusten und komfortablen Unterschlupf für den nächsten Campingausflug sind. Mit seiner zeitlosen Farbkombination aus monument und bright green wird es zum Blickfang auf dem Campingplatz. Dank seiner großzügigen Schlaf- und Wohnbereiche eignet es sich optimal für Familien oder Gruppen.</p><p class=\"justify\">Das Tunnelzelt aus dem Hause FRILUFTS besticht durch seine hohe Materialqualität und Verarbeitung. Das Außenzelt besteht aus strapazierfähigem Polyester, welches mit einer PU-Beschichtung versehen ist und somit auch bei widrigen Wetterbedingungen Schutz bietet. Die atmungsaktiven Innenzelte sorgen für ein angenehmes Schlafklima, während die optimale Lüftung durch mehrere Ventilationsöffnungen gewährleistet ist.</p><p class=\"justify\">Mit seinem cleveren Aufbausystem ist das FRILUFTS GRASSHOLM 4 Familienzelt schnell und einfach aufgebaut. Der Innenraum ist groß genug, um vier Personen einen gemütlichen Schlafplatz zu bieten, und die separate Apsis bietet zusätzlichen Stauraum für Gepäck, Ausrüstung oder zum gemeinsamen Essen und Entspannen. Der Eingangsbereich ist durch ein Moskitonetz geschützt, sodass unliebsame Insekten draußen bleiben.</p><p class=\"justify\">Die zahlreichen positiven Bewertungen und die durchschnittliche Bewertung von 4 Sternen sprechen für die hohe Zufriedenheit der Kunden mit dem FRILUFTS GRASSHOLM 4 Familienzelt. Ob für den nächsten Familienurlaub oder den Ausflug mit Freunden – dieses Zelt bietet genug Platz, um gemeinsame Stunden in der Natur zu genießen.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5637834886",
+        "seo": {
+          "texts": [
+            {
+              "title": "FRILUFTS ERRIGAL 1 Einpersonenzelt - Ihr perfekter Begleiter für Outdoor-Abenteuer",
+              "text": "<p class=\"justify\">Das FRILUFTS ERRIGAL 1 Einpersonenzelt (SKU 5637834886) ist ein hochwertiges, leichtes und kompaktes Zelt für alle Wanderer, Camper und Outdoor-Enthusiasten. In ansprechendem vineyard green gehalten, fügt es sich nicht nur optisch perfekt in jede natürliche Umgebung ein, sondern überzeugt auch durch seine Funktionalität und Robustheit. Als Teil der Kategorien 'Start', 'Ausrüstung', 'Zelte', 'Tunnelzelte' und 'ERRIGAL 1' bietet das Zelt höchste Qualität für Solo-Abenteuer in der Natur.</p><p class=\"justify\">Die Marke FRILUFTS ist bekannt für ihre langlebigen Produkte und das ERRIGAL 1 Einpersonenzelt bildet da keine Ausnahme. Mit seiner 5-Sterne-Bewertung und 433 Kundenrezensionen kann man sicher sein, dass dieses Zelt den anspruchsvollsten Anforderungen für ein Outdoor-Erlebnis gerecht wird. Dabei zeichnet sich das ERRIGAL 1 durch einfache Handhabung und schnellen Aufbau aus, sodass es auch für Einsteiger bestens geeignet ist.</p><p class=\"justify\">Das FRILUFTS ERRIGAL 1 Zelt ist nicht nur leicht und platzsparend in seiner Konstruktion, sondern bietet auch zusätzliche Eigenschaften wie gute Luftzirkulation und Standfestigkeit, die für eine angenehme Übernachtung im Freien unerlässlich sind. So genießen Sie Ihren Aufenthalt in der Natur in vollen Zügen, ohne auf Komfort verzichten zu müssen.</p><p class=\"justify\">Mit einem Preis von 169,95 Euro erhalten Sie ein hervorragendes Produkt mit überzeugender Qualität und Funktionalität. Wenn Sie also auf der Suche nach einem Einpersonenzelt sind, das Ihre Outdoor-Erlebnisse bereichert und komfortabel gestaltet, ist das FRILUFTS ERRIGAL 1 Einpersonenzelt genau das Richtige für Sie.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5637834890",
+        "seo": {
+          "texts": [
+            {
+              "title": "FRILUFTS ERRIGAL 3XT Tunnelzelt: Ihr perfektes Zelt für Outdoor-Abenteuer",
+              "text": "<p class=\"justify\">Das FRILUFTS ERRIGAL 3XT Tunnelzelt ist die ideale Lösung für alle Outdoor-Enthusiasten, die auf der Suche nach einem zuverlässigen und komfortablen Zelt für ihre nächste Camping- oder Trekkingtour sind. Mit seiner ansprechenden vineyard green Farbe fügt es sich harmonisch in jede natürliche Umgebung ein und bietet gleichzeitig ausreichend Platz für bis zu drei Personen.</p><p class=\"justify\">Dieses Tunnelzelt zeichnet sich durch seine hervorragende Raumausnutzung und Windstabilität aus. Die Anordnung der Gestänge und das intelligente Design ermöglichen eine nahezu senkrechte Innenraumausrichtung und somit mehr Komfort für die Insassen. Mit einer 5-Sterne-Bewertung und 135 Kundenrezensionen steht das FRILUFTS ERRIGAL 3XT für höchste Qualität und Langlebigkeit – das perfekte Zelt für anspruchsvolle Outdoor-Aktivitäten.</p><p class=\"justify\">Die Kategoriegeschichte dieses Tunnelzelts zeigt, dass es sowohl für den Einstieg als auch für die professionelle Ausrüstung gut geeignet ist. Es gehört zu den Zelten in den Kategorien Start, Ausrüstung, Zelte, Tunnelzelte und ERRIGAL 3XT und ist somit ein idealer Begleiter für alle, die einen unvergesslichen Outdoorurlaub erleben möchten.</p><p class=\"justify\">Mit einem Preis von 329,95 € ist das FRILUFTS ERRIGAL 3XT Tunnelzelt eine lohnende Investition für alle Outdoor-Fans, die ein zuverlässiges, geräumiges und hochwertiges Zelt suchen. Durch die sorgfältige Verarbeitung und die Verwendung von hochwertigen Materialien ist eine lange Lebensdauer dieses Zeltes garantiert. Entdecken Sie jetzt das FRILUFTS ERRIGAL 3XT Tunnelzelt und machen Sie sich bereit für Ihre nächste Outdoor-Expedition!</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5637834884",
+        "seo": {
+          "texts": [
+            {
+              "title": "FRILUFTS NEPHIN 2 Kuppelzelt",
+              "text": "<p class=\"justify\">Das FRILUFTS NEPHIN 2 Kuppelzelt ist perfekt für alle Abenteurer, die auf der Suche nach einem hochwertigen, zuverlässigen und langlebigen Zelt sind. Mit seiner einzigartigen Farbe, vineyard green, fügt es sich nicht nur perfekt in die Natur ein, sondern bietet auch Schutz und Komfort in jeder Situation. Diese erstklassige Ausrüstung gehört zur Kategorie der Kuppelzelte und ist ideal für Campingausflüge, Festivals oder Wandertouren.</p><p class=\"justify\">Eine der herausragenden Eigenschaften des FRILUFTS NEPHIN 2 Kuppelzelts ist seine erstklassige Qualität und Verarbeitung, die es äußerst stabil und widerstandsfähig gegenüber unterschiedlichen Witterungsbedingungen macht. Dieses Zelt bietet Platz für bis zu zwei Personen und verfügt über genügend Stauraum für Gepäck und Ausrüstung. Die intelligenten Lüftungslösungen und das atmungsaktive Material sorgen dafür, dass Ihnen ein komfortables Innenklima erwartet.</p><p class=\"justify\">Das FRILUFTS NEPHIN 2 Kuppelzelt ist nicht nur bequem und funktional, sondern besticht auch durch sein modernes und ansprechendes Design. Die Marke FRILUFTS ist bekannt für ihre langlebigen und hochwertigen Produkte, die sowohl bei Profis als auch bei Hobby-Outdoor-Liebhabern sehr geschätzt werden. Wer sich für das NEPHIN 2 Kuppelzelt entscheidet, kann sich auf ein erstklassiges Outdoor-Produkt mit einer hohen Zufriedenheit bei den Benutzern verlassen. Dies spiegelt sich auch in den über 341 positiven Bewertungen und der durchschnittlichen 5-Sterne-Bewertung wider.</p><p class=\"justify\">Zusammenfassend ist das FRILUFTS NEPHIN 2 Kuppelzelt eine ausgezeichnete Wahl für alle Outdoor-Enthusiasten, die Wert auf Qualität, Komfort und Funktionalität legen. Die vielen positiven Bewertungen und die herausragende Qualität, die FRILUFTS als Marke verspricht, sprechen für sich. Erleben auch Sie unvergessliche Outdoor-Abenteuer mit dem NEPHIN 2 Kuppelzelt und profitieren Sie von den zahlreichen Vorteilen dieses herausragenden Produkts.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5637930507",
+        "seo": {
+          "texts": [
+            {
+              "title": "Wechsel BELLA Einpersonenzelt - Das ideale Zelt für Solo-Abenteurer",
+              "text": "<p class=\"justify\">Das Wechsel BELLA Einpersonenzelt ist der perfekte Begleiter für alle, die allein unterwegs sind und ein leichtes, robustes und komfortables Zelt suchen. Die Marke Wechsel ist bekannt für ihre hochwertigen Outdoor-Produkte, und das BELLA Einpersonenzelt ist keine Ausnahme. Mit seiner grünen Farbe fügt es sich harmonisch in die Natur ein und bietet ein ansprechendes Design.</p><p class=\"justify\">Dieses Zelt gehört zur Kategorie Kuppelzelte, welche sich durch ihre hohe Stabilität und einfache Montage auszeichnen. Die BELLA-Serie von Wechsel steht für Qualität und Zuverlässigkeit, was sich auch in den positiven Bewertungen und den 4 Sternen zeigt, die das Zelt von 67 Käufern erhalten hat.</p><p class=\"justify\">Das Wechsel BELLA Einpersonenzelt wiegt lediglich 524,90 Gramm und ist somit ein Leichtgewicht unter den Zelten. Dadurch ist es ideal für alle, die sich auf längeren Wanderungen oder Trekkingtouren auf wenig Gewicht achten möchten. Trotz des geringen Gewichts bietet das Zelt ausreichend Platz für eine Person und die Ausrüstung. Dank der hohen Material- und Verarbeitungsqualität bleibt das Innenraumklima angenehm und Schutz vor Wind und Wetter ist gewährleistet.</p><p class=\"justify\">Zusammenfassend ist das Wechsel BELLA Einpersonenzelt eine ausgezeichnete Option für Solo-Abenteurer und Naturliebhaber, die Wert auf Qualität und Komfort legen. Die einfache Handhabung und das ansprechende Design runden das Gesamtpaket ab und machen das BELLA Einpersonenzelt zu einem Outdoor-Produkt, das auf keiner Reise fehlen sollte.</p>"
+            }
+          ]
+        }
+      }
     ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | Zelt Shop",
+    "defaultMetaDescription": "Zelte aus der Kategorie $KATEGORIE in unserem Zelt Shop online bestellen. Produkte, Testsieger und beliebte $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "zelt",
+        "slug": "zelt",
+        "name": "zelt",
+        "seo": {
+          "title": "Zelt kaufen",
+          "metaDescription": "Alle Zelte im Überblick. Produkte und Testsieger. Finde das passende Zelt zu einem top Preis-Leistungs-Verhältnis.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Zelte von $HERSTELLER | Zelt Shop",
+    "defaultMetaDescription": "Alle Zelte von $HERSTELLER im Überblick in unserem Zelt Shop. Best-Preis-Leistungs. Beliebte Zelte und Testsieger.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "MSR",
+        "name": "MSR",
+        "seo": {
+          "title": "Produkte von MSR günstig kaufen",
+          "metaDescription": "Alle Produkte von MSR im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor-Zelt-Produkte.",
+          "robots": "index, follow"
+        }
+      },
+      {
+        "key": "Sea to Summit",
+        "name": "Sea to Summit",
+        "seo": {
+          "title": "Produkte von Sea to Summit günstig kaufen",
+          "metaDescription": "Alle Produkte von Sea to Summit im Überblick. Produkte und Testsieger. Zusammen mit MSR bildet Sea to Summit die Spitze der Zelte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "checklist": [
+    "Material",
+    "Atmungsaktivität",
+    "Wasserfestigkeit",
+    "Komfort",
+    "Extra Funktionen",
+    "Pflegbarkeit"
+  ],
+  "navigationLinks": [
+    {
+      "title": "Home",
+      "linkTo": "/",
+      "linkTitle": "Zelt",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Zelt Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "publish": true,
+      "linkTo": "/marken/",
+      "linkTitle": "Zelt Marken"
+    },
+    {
+      "title": "Kontakt",
+      "linkTitle": "Kontakt aufnehmen",
+      "linkTo": "#kontakt",
+      "publish": false
+    }
+  ],
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
